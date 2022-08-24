@@ -1,0 +1,22 @@
+.padre{
+    position: absolute  ;
+    margin-top: 7em;
+    margin-bottom: 20%;
+    width: auto;
+    height: auto;
+    left: 5em;
+    right: 5em;
+
+
+    
+}
+
+.seccion1{
+    background-color: #3948ff;
+    border-radius: 2em;
+    text-align: center;
+    padding-top: 5em;
+    padding-bottom: 5em;
+    color: antiquewhite;
+}
+
